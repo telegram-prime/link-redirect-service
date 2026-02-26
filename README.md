@@ -1,9 +1,18 @@
-# Links Redirect Service
+# **Links Redirect Service**
 
-Redirect Service helps you launch secure, high-converting redirect campaigns in minutes.
-Create branded links, protect destinations, and track what works, all from one clean dashboard.
+> Redirect Service helps you launch secure, high-converting redirect campaigns in minutes.
+
+> Create branded links, protect destinations, and track what works, all from one clean dashboard.
+
+
+## 🌐 Available in multiple languages
+- English – this page  
+- Russian – [Open](https://github.com/telegram-prime/link-redirect-service/blob/main/README_RU.md)
+- Chinese – [Open](https://github.com/telegram-prime/link-redirect-service/blob/main/README_CN.md)
+  
 
 [Explore the platform](https://folink.cc/) 👈
+
 
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/bcf351fe-942b-4139-9c45-de9a6c354808" />
 
