@@ -1,11 +1,20 @@
 # 链接重定向服务
 
-Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向活动。
-创建品牌化链接、保护目标页面、跟踪有效数据，一切尽在一个清晰的仪表板中。
+> Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向活动。
 
-[探索平台](https://folink.cc/) 👈
+> 创建品牌化链接、保护目标页面、跟踪有效数据，一切尽在一个清晰的仪表板中。
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/bcf351fe-942b-4139-9c45-de9a6c354808" />
+
+## 🌐 Available in multiple languages
+- Chinese – this page
+- English – [Open](https://github.com/telegram-prime/link-redirect-service/blob/main/README.md)
+- Russian – [Open](https://github.com/telegram-prime/link-redirect-service/blob/main/README_RU.md)
+
+
+[探索平台](https://folink.cc/?lang=zh_Hans) 👈
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5b27a16a-8398-4224-93d2-cc6b89046b63" />
+
 
 
 ## 为结果而生
@@ -32,7 +41,7 @@ Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向
   - 重定向延迟秒数
 - 可重复使用的文本/按钮模板，加速设置
 - 链接分组，便于活动管理
-- [免费开始使用（无需信用卡）](https://folink.cc/) 👈
+- [免费开始使用（无需信用卡）](https://folink.cc/?lang=zh_Hans) 👈
 
 ### 2. 域名路由与品牌化
 
@@ -58,7 +67,7 @@ Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向
 - 每日效果汇总
 - 按国家/地区统计流量来源
 - 清晰的个人活动仪表板
-- [启动并跟踪您的活动](https://folink.cc/)
+- [启动并跟踪您的活动](https://folink.cc/?lang=zh_Hans)
 
 ### 5. 账户与增长功能
 
@@ -91,7 +100,7 @@ Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向
 - 通过自有域名和落地页实现纯净品牌化
 - 内置分析功能支持持续改进
 - 实用工具随您的业务一同成长
-- [官方网站](https://folink.cc/)
+- [官方网站](https://folink.cc/?lang=zh_Hans)
 
 ## 特别适合
 
@@ -101,9 +110,10 @@ Redirect Service 帮助您在几分钟内启动安全、高转化率的重定向
 - 需要跨多渠道管理大量链接的团队
 
 ---
-立即使用 Redirect Service，将每一条链接变成可控、可追踪的转化路径：[https://folink.cc/](https://folink.cc/)。24小时免费体验（无需信用卡）。
+立即使用 Redirect Service，将每一条链接变成可控、可追踪的转化路径：[https://folink.cc/](https://folink.cc/?lang=zh_Hans)。24小时免费体验（无需信用卡）。
 
 ## 联系方式
 
-- 主要网站：[https://folink.cc/](https://folink.cc/)
-- 俄语专用网站：[https://ru.folink.cc/](https://ru.folink.cc/)（服务器位于俄罗斯，专为俄罗斯客户提供服务）
+- 主要网站：[https://folink.cc/](https://folink.cc/?lang=zh_Hans)
+
+- 俄语专用网站：[https://ru.folink.cc/](https://ru.folink.cc/?lang=zh_Hans)（服务器位于俄罗斯，专为俄罗斯客户提供服务）
